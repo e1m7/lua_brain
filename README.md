@@ -4,4 +4,4 @@
 
 A simple, miniature interpreter of the Brainfuck language with processing of nested loops. The code is put directly into the code as a string. The response is displayed in green in the console.
 
-> lua 
+> lua inter.lua
